@@ -10,7 +10,7 @@ I have been studying programming for more than five years, participated in sever
 
 I am currently involved in projects with React , Flutter, JS , NodeJS and Python. 
 
-You can follow my open-source code below or contact me to check my complete portfolio. :smiley: :ok_hand:
+You can check my open-source code below or contact me to check my complete portfolio. :smiley: :ok_hand:
 
 My Linkedin page: https://www.linkedin.com/in/hiagorsouza/
 
