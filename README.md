@@ -1,16 +1,13 @@
-### Hi there 👋
+![Alt Text](https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif)
 
-<!--
-**HiagoSouz/HiagoSouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hello, thank you for visiting my Git 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+My name is Hiago, I'm a Mobile and Web Developer. :iphone: :computer:
+
+I have been studying programming for more than five years, participated in several projects and worked with exceptional people. I love learning new technologies and I'm a big fan of AI. I'm currently a student of computer engineering at the Federal University of São Carlos.
+
+
+
+
